@@ -1,0 +1,17 @@
+{
+  "name": "GMCC",
+  "symbol": "GMCC",
+  "contract": "superboxgmcc",
+  "issuer": "superboxgmcc",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/GMCC/GMCC.png",
+  "desc": {
+    "en": "The super mining pool is developed based on the EOS public chain. GMCC is the original token in the ecosystem, which is used to prove the rights and interests of users and purchase bitcoin computing power. One key is completed. Ordinary users can also participate in the mining industry.",
+    "zh": "超级矿池基于EOS公链开发，GMCC为生态系统内原生令牌，用于证明用户权益和购买比特币算力，一键式 完成，普通用户也可以参与挖矿行业。"
+  },
+  "website": "https://eos.io",
+  "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+  "links": {
+    "github": "https://github.com/unknown95270"
+  }
+}
